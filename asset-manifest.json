@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.df416d30.chunk.css",
-    "main.js": "/static/js/main.1bb1068b.chunk.js",
-    "main.js.map": "/static/js/main.1bb1068b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.351bdc76.js",
-    "runtime-main.js.map": "/static/js/runtime-main.351bdc76.js.map",
-    "static/js/2.6889a29d.chunk.js": "/static/js/2.6889a29d.chunk.js",
-    "static/js/2.6889a29d.chunk.js.map": "/static/js/2.6889a29d.chunk.js.map",
-    "static/js/3.24de8e62.chunk.js": "/static/js/3.24de8e62.chunk.js",
-    "static/js/3.24de8e62.chunk.js.map": "/static/js/3.24de8e62.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.df416d30.chunk.css.map": "/static/css/main.df416d30.chunk.css.map",
-    "static/js/2.6889a29d.chunk.js.LICENSE.txt": "/static/js/2.6889a29d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/school_desk.40b9f9bd.jpg"
+    "main.css": "/drum-machine-deploy/static/css/main.8d8232b8.chunk.css",
+    "main.js": "/drum-machine-deploy/static/js/main.1bb1068b.chunk.js",
+    "main.js.map": "/drum-machine-deploy/static/js/main.1bb1068b.chunk.js.map",
+    "runtime-main.js": "/drum-machine-deploy/static/js/runtime-main.0ba0b4b4.js",
+    "runtime-main.js.map": "/drum-machine-deploy/static/js/runtime-main.0ba0b4b4.js.map",
+    "static/js/2.6889a29d.chunk.js": "/drum-machine-deploy/static/js/2.6889a29d.chunk.js",
+    "static/js/2.6889a29d.chunk.js.map": "/drum-machine-deploy/static/js/2.6889a29d.chunk.js.map",
+    "static/js/3.24de8e62.chunk.js": "/drum-machine-deploy/static/js/3.24de8e62.chunk.js",
+    "static/js/3.24de8e62.chunk.js.map": "/drum-machine-deploy/static/js/3.24de8e62.chunk.js.map",
+    "index.html": "/drum-machine-deploy/index.html",
+    "static/css/main.8d8232b8.chunk.css.map": "/drum-machine-deploy/static/css/main.8d8232b8.chunk.css.map",
+    "static/js/2.6889a29d.chunk.js.LICENSE.txt": "/drum-machine-deploy/static/js/2.6889a29d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/drum-machine-deploy/static/media/school_desk.40b9f9bd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.351bdc76.js",
+    "static/js/runtime-main.0ba0b4b4.js",
     "static/js/2.6889a29d.chunk.js",
-    "static/css/main.df416d30.chunk.css",
+    "static/css/main.8d8232b8.chunk.css",
     "static/js/main.1bb1068b.chunk.js"
   ]
 }
