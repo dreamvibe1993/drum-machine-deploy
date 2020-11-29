@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/dreamvibe1993/akai-3000/static/css/main.5872adf7.chunk.css",
-    "main.js": "/dreamvibe1993/akai-3000/static/js/main.af032d0a.chunk.js",
-    "main.js.map": "/dreamvibe1993/akai-3000/static/js/main.af032d0a.chunk.js.map",
-    "runtime-main.js": "/dreamvibe1993/akai-3000/static/js/runtime-main.d1e02726.js",
-    "runtime-main.js.map": "/dreamvibe1993/akai-3000/static/js/runtime-main.d1e02726.js.map",
-    "static/js/2.b677bac1.chunk.js": "/dreamvibe1993/akai-3000/static/js/2.b677bac1.chunk.js",
-    "static/js/2.b677bac1.chunk.js.map": "/dreamvibe1993/akai-3000/static/js/2.b677bac1.chunk.js.map",
-    "static/js/3.75305b17.chunk.js": "/dreamvibe1993/akai-3000/static/js/3.75305b17.chunk.js",
-    "static/js/3.75305b17.chunk.js.map": "/dreamvibe1993/akai-3000/static/js/3.75305b17.chunk.js.map",
-    "index.html": "/dreamvibe1993/akai-3000/index.html",
-    "static/css/main.5872adf7.chunk.css.map": "/dreamvibe1993/akai-3000/static/css/main.5872adf7.chunk.css.map",
-    "static/js/2.b677bac1.chunk.js.LICENSE.txt": "/dreamvibe1993/akai-3000/static/js/2.b677bac1.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/dreamvibe1993/akai-3000/static/media/19355.0f179429.ttf"
+    "main.css": "/static/css/main.df416d30.chunk.css",
+    "main.js": "/static/js/main.1bb1068b.chunk.js",
+    "main.js.map": "/static/js/main.1bb1068b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.351bdc76.js",
+    "runtime-main.js.map": "/static/js/runtime-main.351bdc76.js.map",
+    "static/js/2.6889a29d.chunk.js": "/static/js/2.6889a29d.chunk.js",
+    "static/js/2.6889a29d.chunk.js.map": "/static/js/2.6889a29d.chunk.js.map",
+    "static/js/3.24de8e62.chunk.js": "/static/js/3.24de8e62.chunk.js",
+    "static/js/3.24de8e62.chunk.js.map": "/static/js/3.24de8e62.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.df416d30.chunk.css.map": "/static/css/main.df416d30.chunk.css.map",
+    "static/js/2.6889a29d.chunk.js.LICENSE.txt": "/static/js/2.6889a29d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/school_desk.40b9f9bd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1e02726.js",
-    "static/js/2.b677bac1.chunk.js",
-    "static/css/main.5872adf7.chunk.css",
-    "static/js/main.af032d0a.chunk.js"
+    "static/js/runtime-main.351bdc76.js",
+    "static/js/2.6889a29d.chunk.js",
+    "static/css/main.df416d30.chunk.css",
+    "static/js/main.1bb1068b.chunk.js"
   ]
 }
