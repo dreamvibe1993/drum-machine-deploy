@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/drum-machine-deploy/static/css/main.8d8232b8.chunk.css",
-    "main.js": "/drum-machine-deploy/static/js/main.1bb1068b.chunk.js",
-    "main.js.map": "/drum-machine-deploy/static/js/main.1bb1068b.chunk.js.map",
-    "runtime-main.js": "/drum-machine-deploy/static/js/runtime-main.0ba0b4b4.js",
-    "runtime-main.js.map": "/drum-machine-deploy/static/js/runtime-main.0ba0b4b4.js.map",
-    "static/js/2.6889a29d.chunk.js": "/drum-machine-deploy/static/js/2.6889a29d.chunk.js",
-    "static/js/2.6889a29d.chunk.js.map": "/drum-machine-deploy/static/js/2.6889a29d.chunk.js.map",
-    "static/js/3.24de8e62.chunk.js": "/drum-machine-deploy/static/js/3.24de8e62.chunk.js",
-    "static/js/3.24de8e62.chunk.js.map": "/drum-machine-deploy/static/js/3.24de8e62.chunk.js.map",
+    "main.css": "/drum-machine-deploy/static/css/main.3ac6a7e1.chunk.css",
+    "main.js": "/drum-machine-deploy/static/js/main.2a11dfcf.chunk.js",
+    "main.js.map": "/drum-machine-deploy/static/js/main.2a11dfcf.chunk.js.map",
+    "runtime-main.js": "/drum-machine-deploy/static/js/runtime-main.f822e8a1.js",
+    "runtime-main.js.map": "/drum-machine-deploy/static/js/runtime-main.f822e8a1.js.map",
+    "static/js/2.f07c5ce3.chunk.js": "/drum-machine-deploy/static/js/2.f07c5ce3.chunk.js",
+    "static/js/2.f07c5ce3.chunk.js.map": "/drum-machine-deploy/static/js/2.f07c5ce3.chunk.js.map",
+    "static/js/3.dcad9aaf.chunk.js": "/drum-machine-deploy/static/js/3.dcad9aaf.chunk.js",
+    "static/js/3.dcad9aaf.chunk.js.map": "/drum-machine-deploy/static/js/3.dcad9aaf.chunk.js.map",
     "index.html": "/drum-machine-deploy/index.html",
-    "static/css/main.8d8232b8.chunk.css.map": "/drum-machine-deploy/static/css/main.8d8232b8.chunk.css.map",
-    "static/js/2.6889a29d.chunk.js.LICENSE.txt": "/drum-machine-deploy/static/js/2.6889a29d.chunk.js.LICENSE.txt",
+    "static/css/main.3ac6a7e1.chunk.css.map": "/drum-machine-deploy/static/css/main.3ac6a7e1.chunk.css.map",
+    "static/js/2.f07c5ce3.chunk.js.LICENSE.txt": "/drum-machine-deploy/static/js/2.f07c5ce3.chunk.js.LICENSE.txt",
+    "static/media/Screen.module.css": "/drum-machine-deploy/static/media/19355.0f179429.ttf",
     "static/media/App.css": "/drum-machine-deploy/static/media/school_desk.40b9f9bd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ba0b4b4.js",
-    "static/js/2.6889a29d.chunk.js",
-    "static/css/main.8d8232b8.chunk.css",
-    "static/js/main.1bb1068b.chunk.js"
+    "static/js/runtime-main.f822e8a1.js",
+    "static/js/2.f07c5ce3.chunk.js",
+    "static/css/main.3ac6a7e1.chunk.css",
+    "static/js/main.2a11dfcf.chunk.js"
   ]
 }
